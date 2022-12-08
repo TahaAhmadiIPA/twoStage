@@ -1,1 +1,12 @@
-﻿  twoStage.vcxproj -> C:\Users\Taha Ahmadi\Desktop\twoStage\x64\Release\twoStage.exe
+﻿  Source.cpp
+C:\Users\Taha Ahmadi\Desktop\a\twoStage\twoStage\EV.h(143,37): warning C4244: '=': conversion from 'IloNum' to 'int', possible loss of data
+C:\Users\Taha Ahmadi\Desktop\a\twoStage\twoStage\EV.h(145,37): warning C4244: '=': conversion from 'IloNum' to 'int', possible loss of data
+C:\Users\Taha Ahmadi\Desktop\a\twoStage\twoStage\EEV.h(159,25): warning C4244: '+=': conversion from 'IloNum' to 'float', possible loss of data
+C:\Users\Taha Ahmadi\Desktop\a\twoStage\twoStage\WS.h(144,24): warning C4244: '+=': conversion from 'IloNum' to 'float', possible loss of data
+C:\Users\Taha Ahmadi\Desktop\a\twoStage\twoStage\RP.h(309,42): warning C4244: 'initializing': conversion from 'IloNum' to 'float', possible loss of data
+C:\Users\Taha Ahmadi\Desktop\a\twoStage\twoStage\RP.h(309,21): warning C4244: 'initializing': conversion from 'IloNum' to 'const float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  twoStage.vcxproj -> C:\Users\Taha Ahmadi\Desktop\a\twoStage\x64\Release\twoStage.exe
